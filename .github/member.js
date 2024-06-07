@@ -6,3 +6,4 @@ function skillsMember() {
     };
     return member;
   }
+  
